@@ -3,7 +3,7 @@
 A new Flutter application.
 
 ### Animated GIF
-<img src="https://s8.gifyu.com/images/ezgif.com-gif-maker1456266e7929e472.gif>
+![Alt Text](https://s8.gifyu.com/images/ezgif.com-gif-maker1456266e7929e472.gif)
 
 ### Screen1
 <img src="https://i.ibb.co/Lz5z6kW/Whats-App-Image-2020-10-20-at-3-55-57-PM-5.jpg" width="300" height="500">
