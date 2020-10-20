@@ -1,0 +1,39 @@
+{
+  "periods": 1,
+  "timetable": [
+    {
+      "period": 1,
+      "starttime": 100,
+      "subject": "Mathmatics",
+      "staff": "Rajendra Singh"
+    },
+    {
+      "break": "Break",
+      "starttime": 100,
+      "endtime": 200
+    },
+    {
+      "period": 2,
+      "starttime": 100,
+      "subject": "Hindi",
+      "staff": "Mukesh Khulve"
+    },
+    {
+      "period": 3,
+      "starttime": 100,
+      "subject": "English",
+      "staff": "Rahul Singh"
+    },
+    {
+      "period": 4,
+      "starttime": 100,
+      "subject": "Economics",
+      "staff": "Jitendra Mahant"
+    },
+    {
+      "break": "Lunch",
+      "starttime": 100,
+      "endtime": 200
+    }
+  ]
+}
