@@ -1,4 +1,4 @@
-# flutter_app_demo
+# School Management sample demo
 
 A new Flutter application.
 
